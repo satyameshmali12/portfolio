@@ -1,0 +1,25 @@
+@page "/repos"
+@inject HttpClient Http
+
+<div>
+    <h3 class="text-center text-white" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-decoration: underline;">My Github Repositories</h3>
+</div>
+
+
+@foreach (GithubRepo repo in repos)
+{
+    <div class="border-dark m-auto resize text mt-5" style="width: 25rem;">
+        <h3 class="text-black text-center" style="font-family: 'Vina Sans', cursive; background-color: lightslategray;">@repo.Name</h3>
+            <div class="card-body card">
+                <p class="card-text text-center">@repo.Description</p>
+            </div>
+        </div>
+    
+}
+
+@code
+{
+
+    List<GithubRepo> repos = GithubRepo.GetGithubRepos();      
+
+}

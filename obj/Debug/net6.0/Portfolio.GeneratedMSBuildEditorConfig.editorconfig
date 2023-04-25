@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = Portfolio
+build_property.RootNamespace = Portfolio
+build_property.ProjectDir = C:\Users\satya\OneDrive\Desktop\Portfolio\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\satya\OneDrive\Desktop\Portfolio
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/satya/OneDrive/Desktop/Portfolio/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/satya/OneDrive/Desktop/Portfolio/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/satya/OneDrive/Desktop/Portfolio/Pages/FootDown.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9vdERvd24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/satya/OneDrive/Desktop/Portfolio/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/satya/OneDrive/Desktop/Portfolio/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/satya/OneDrive/Desktop/Portfolio/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rnvjunaat8
+
+[C:/Users/satya/OneDrive/Desktop/Portfolio/Pages/Repos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-tw3cx8m64r
+
+[C:/Users/satya/OneDrive/Desktop/Portfolio/Pages/Skills.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2tpbGxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-gnux2v5wyb
+
+[C:/Users/satya/OneDrive/Desktop/Portfolio/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-8lh1yvxdyk
+
+[C:/Users/satya/OneDrive/Desktop/Portfolio/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-anwmgeiwyq

@@ -1,0 +1,13 @@
+.resize {
+}
+@media only screen and (max-width: 500) {
+    .resize{
+        width: 90vw;
+    }
+}
+
+.card{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: rgb(26, 50, 117);
+}

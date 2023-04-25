@@ -1,0 +1,13 @@
+.resize[b-tw3cx8m64r] {
+}
+@media only screen and (max-width: 500) {
+    .resize[b-tw3cx8m64r]{
+        width: 90vw;
+    }
+}
+
+.card[b-tw3cx8m64r]{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: rgb(26, 50, 117);
+}

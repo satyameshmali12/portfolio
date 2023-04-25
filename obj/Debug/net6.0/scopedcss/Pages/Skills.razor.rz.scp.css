@@ -1,0 +1,20 @@
+.cardext[b-gnux2v5wyb] {
+  background-color: rgb(26, 50, 117);
+  color: white;
+}
+
+.cardcenter[b-gnux2v5wyb] {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.resize[b-gnux2v5wyb] {
+}
+@media only screen and (max-width: 500) {
+    .resize[b-gnux2v5wyb]{
+        width: 90vw;
+    }
+}

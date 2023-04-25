@@ -11,10 +11,21 @@
   gap: 40px;
 }
 
-.resize {
+.img {
+  border-radius: 10px;
 }
-@media only screen and (max-width: 500) {
-    .resize{
-        width: 90vw;
-    }
+
+
+.cwidth
+{
+  width: 25rem;
+}
+
+
+@media only screen and (max-width: 500px) {
+
+  .cwidth
+  {
+    width: 85vw;
+  }
 }

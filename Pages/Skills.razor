@@ -4,10 +4,11 @@
     <h1 class="text-center text-white font-monospace">Languages I know...</h1>
 </div>
 
+
 <div style="min-height: 100vh;" class="cardcenter">
     @foreach (Skill skill in skills)
     {
-        <div class="border-dark m-auto resize" style="width: 25rem;">
+        <div class="border-dark m-auto cwidth" >
             <h3 class="text-black text-center" style="font-family: 'Vina Sans', cursive; background-color: lightslategray;">@(skill.Name)</h3>
             <img src=@(skill.ImageUrl) class="card-img-top" alt="...">
             <div class="card-body cardext">
@@ -29,7 +30,7 @@
 <div style="min-height: 100vh;" class="cardcenter">
     @foreach (Skill framework in frameworks)
     {
-        <div class="card border-dark m-auto" style="width: 25rem;">
+        <div class="border-dark m-auto cwidth">
             <h3 class="text-black text-center" style="font-family: 'Vina Sans', cursive; background-color: lightslategray;">@(framework.Name)</h3>
             <img src=@(framework.ImageUrl) class="card-img-top" alt="...">
             <div class="card-body cardext">
